@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747641076526",
+    "project_id": "all-code-scanner-35f52",
+    "storage_bucket": "all-code-scanner-35f52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747641076526:android:b548a4a50dc266efce58bf",
+        "android_client_info": {
+          "package_name": "com.allcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747641076526-md12b41p5pd28sqg83804bh9su6ktatc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRvpAHIPQ8ZigJBG5ikw7hu3Twz9EtpeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747641076526-md12b41p5pd28sqg83804bh9su6ktatc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
